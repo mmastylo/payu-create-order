@@ -1,0 +1,8 @@
+{
+ 	"status":{
+ 		"statusCode":"SUCCESS"
+	},
+   "extOrderId":"some extOrderId", 
+   "redirectUri":"some redirectUri",
+   "orderId":"some orderId"
+}
